@@ -3,7 +3,7 @@
 
 	Author: Abdul Al-Faraj
 
-	![ScreenShot]https://raw.githubusercontent.com/AbdulRehmanFaraj/BuggyProject/master/image6.jpg
+	![alt tag](https://raw.githubusercontent.com/AbdulRehmanFaraj/BuggyProject/master/image6.jpg)
 
 	  Subject:
 
