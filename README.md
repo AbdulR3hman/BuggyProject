@@ -3,6 +3,8 @@
 
 	Author: Abdul Al-Faraj
 
+![alt tag]https://github.com/AbdulRehmanFaraj/BuggyProject/blob/master/image6.jpg
+
 	  Subject:
 
                 The project was three parts, to build sensors, the motor and the
